@@ -1,0 +1,7 @@
+# Python
+
+This repository is a place to showcase some of my Python capabilities.
+
+In this directory you will find:
+
+* Suffix_Analyser: A Flask-based web-app that interacts with the Wolfram Alpha API. The app uses server-side events, a database, and Wolfram's RESTful API, parsing the XML response and extracting the appropriate XML fields.
